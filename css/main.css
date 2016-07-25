@@ -1,0 +1,20 @@
+.site-logo {
+  width: 50px;
+  display: inline-block;
+}
+.site-logo img {
+  width: 100%;
+}
+footer{
+  padding: 10px 0;
+}
+.footer-nav {
+  text-align: right;
+}
+footer li {
+  float: none;
+  display: inline-block;
+}
+.hero {
+  background-image: url(../img/building_banner.jpg);
+}
